@@ -6,7 +6,7 @@ Your privacy matters to us. This Privacy Policy explains how Calorie Cat collect
 
 ### What We Collect
 
-- **Personal Information:** Calorie Cat does **not** require you to create an account or share personal details such as your name or email to use core features.
+- **Personal Information:** Calorie Cat does **not** require you to create an account or share personal details such as your name or email to use core features. But will require your age, weight, and activity levels in order to determine calorie goals.
 - **Health & Usage Data:** Calorie Cat records meal logs, calories, macronutrients, and app usage statistics; all stored **locally** on your device, unless you explicitly opt in to backup or sync features.
 
 ### How We Use Data
